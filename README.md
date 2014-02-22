@@ -3,4 +3,7 @@ UrbanDataChallange2014_TeamUpgrade
 
 Team Upgrades code repo
 
-test update on local machine
+Team Members:
+Ed Kahler <- Right Rrain
+Alex Nassour <- Left Brain
+
