@@ -4,7 +4,7 @@ UrbanDataChallange2014_TeamUpgrade
 Team Upgrades code repo
 
 Team Members:
-Ed Kahler <- Right Rrain
+Ed Kahler <- Creative Coder
 
-Alex Nassour <- Left Brain
+Alex Nassour & Boriana A.<- Designers
 
